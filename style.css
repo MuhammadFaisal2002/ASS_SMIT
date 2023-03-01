@@ -26,8 +26,8 @@
     font-size: 22px;
 }
 nav{
-    /* display: flex;
-    flex-direction: row; */
+    display: flex;
+    flex-direction: row;
 }
 nav ul {
     display: flex;
